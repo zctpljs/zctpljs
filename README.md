@@ -1,4 +1,4 @@
-- 👋 Hi! I’m Louis Shaw - a researcher at [BIT](https://www.bi.team/).
+- 👋 Hi! I’m Louis Shaw - a researcher at [BIT](https://www.bi.team/) in London.
 - 🌱 I mainly use R, and am learning Python for experiment analysis at work. Keen to get good at data science.
 
 <!---
